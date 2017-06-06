@@ -1,0 +1,107 @@
+body{
+	//background:blue;
+}
+
+h4{
+ color: blue;
+	background: white;
+}
+
+h1{
+	color: blue;
+	font-size: 20px;
+	;
+}
+.titulo-principal{
+	font-size: 50px;
+    background-color: white;
+	    margin: 0;
+}
+.titulo-enlaces{
+	font-size: 31px;
+background: #DBCBCB;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    color: red;
+    padding: 8px 21px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: black;
+    color: white;
+}
+
+li {
+    float: left;
+    display: block;
+    padding: 6px;
+    background-color: #123FC5;
+	  text-decoration: none;
+ text-align:center;
+
+}
+
+
+li a:hover {
+    background-color: black;
+    color: white;
+}
+
+li {
+    
+    display: block;
+    padding: 6px;
+    background-color: #123FC5;
+	  
+
+}
+
+.perfil-gloria{
+	
+	font-size: 50px;
+    background: blue;
+}
+.nuestra-mision{
+	font-size: 50px;
+    background: blue;
+}
+.titulo-contacto{font-size: 50px;
+    background: red;
+}
+.nuestra-vision{
+	font-size: 50px;
+    background: blue;
+}
+.nutricion-salud{font-size: 50px;
+    background: red;
+	
+}
+.boton-menu{
+	background:red;
+}
+
+
+.izquierda{
+	
+	width: 50%;
+	float: left;
+}
+.derecha{
+
+		width: 50%;
+		float: right;
+	
+}
+li {
+    display: inline;
+}
+
+
+
+	
